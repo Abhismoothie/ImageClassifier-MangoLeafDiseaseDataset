@@ -4,7 +4,9 @@ In this code, we have compared the affects of various Activation Funtions on CNN
 Furthermore, we have compared the above models with Decision Tree and Random Forest.
 
 To run this:
+
 1> Please install all the necessary libraries
+
 2> Code execution: Simply run it in a Python Environment wih the required libraries installed.
 
 Note:
